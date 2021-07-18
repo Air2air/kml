@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
     <Document>
-        <name>Mines by District.kml</name>
+        <name>Mines-by-District.kml</name>
         <StyleMap id="msn_ylw-pushpin200">
             <Pair>
                 <key>normal</key>
@@ -37,7 +37,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -113,7 +113,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -178,7 +178,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -196,7 +196,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -308,7 +308,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -346,7 +346,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -382,7 +382,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -391,7 +391,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -447,7 +447,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -474,7 +474,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -562,7 +562,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -581,7 +581,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -590,7 +590,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -683,7 +683,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -702,7 +702,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -711,7 +711,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -730,7 +730,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -739,7 +739,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -748,7 +748,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -785,7 +785,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -887,7 +887,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -977,7 +977,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -996,7 +996,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1024,7 +1024,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1150,7 +1150,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1178,7 +1178,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1226,7 +1226,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1269,7 +1269,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1288,7 +1288,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1316,7 +1316,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1407,7 +1407,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1466,7 +1466,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1475,7 +1475,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1493,7 +1493,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1684,7 +1684,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1751,7 +1751,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1834,7 +1834,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1853,7 +1853,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1881,7 +1881,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1890,7 +1890,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1899,7 +1899,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -1964,7 +1964,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2048,7 +2048,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2134,7 +2134,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2143,7 +2143,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2221,7 +2221,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2285,7 +2285,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2294,7 +2294,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2351,7 +2351,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2476,7 +2476,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2494,7 +2494,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2503,7 +2503,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2531,7 +2531,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2555,7 +2555,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2613,7 +2613,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2689,7 +2689,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2727,7 +2727,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2774,7 +2774,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2821,7 +2821,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2830,7 +2830,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -2980,7 +2980,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3036,7 +3036,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3077,7 +3077,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3115,7 +3115,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3124,7 +3124,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3173,7 +3173,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3231,7 +3231,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3274,7 +3274,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3403,7 +3403,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3522,7 +3522,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3550,7 +3550,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3577,7 +3577,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3661,7 +3661,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3724,7 +3724,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3733,7 +3733,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3742,7 +3742,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3863,7 +3863,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3882,7 +3882,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3891,7 +3891,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3939,7 +3939,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -3948,7 +3948,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -4012,7 +4012,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -4030,7 +4030,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -4067,7 +4067,7 @@
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
                 </Icon>
                 <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
             </IconStyle>
@@ -4128,7 +4128,7 @@
 
 
 
-		
+
         <Folder>
             <name>Mines by District</name>
             <Folder>
