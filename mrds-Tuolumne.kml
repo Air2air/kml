@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2/">
+    <Document>
+        <name>Mineral Resource Data System</name>
+        <Placemark>
+            <name>Alpine Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.21989,37.90022,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Arroyo Gravel Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.3732,37.96432,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>B. J. Placer Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.2191,38.31101,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Black Oak Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.27645,37.97735,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Bonanza Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.3869,37.98841,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Booker Lease Occurrence</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.50322,37.8727,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Buchanan Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.19179,37.91522,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Burns and Turzich Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.45517,37.8677,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Carrigan Mines Inc</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-119.77989,38.29601,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Casa Madera</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.05849,38.02075,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Cave Diggins Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.22769,37.90992,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Chaparral Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.19239,37.90412,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Confidence-Lamphere Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.20826,38.0434,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Consuella Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.23544,37.94881,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Consuella Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.2354,37.94882,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Currie</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.5271,37.91911,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Diamond Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.31539,37.66102,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Donella</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.22294,37.99881,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Don Pedro Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.42072,37.77909,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Don Pedro Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4207,37.77912,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Duleek Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.18629,37.88522,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Eagle Bluff Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.21989,37.89412,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Eagle-Shawmut Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.401,37.86802,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Eagle-Shawmut Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.39564,37.86689,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Eggling and Williams Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4502,37.87212,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Eggling and Williams Mines</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.45017,37.87492,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ellen Winton Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.21459,37.89682,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Empire Gravel Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.426,38.00071,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Fagan Lease Occurrence</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.49044,37.87798,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Fortynine Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4077,37.73522,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Garner Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.14909,37.88432,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Golden Gate Mines Incorporated</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.2907,37.95382,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Goldship-Mayflower Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.16709,37.86962,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gray Squirrel</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.3504,38.05551,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Harvard Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4382,37.94552,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Harvard Mine Group</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.43767,37.94631,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Hughes Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.6135,37.87022,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Hull Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.16959,37.86912,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Hunter Fluming Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.366,38.04601,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>If I Can Mine</name>
+            <styleUrl>#ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.561,37.90908,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>If I Can Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.561,37.90911,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Jamestown Mine</name>
+            <styleUrl>#ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.41767,37.94992,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Jamestown Mine</name>
+            <styleUrl>#PlantStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4379,37.94572,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Juniper Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-119.79766,38.29797,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Juniper Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-119.78959,38.29821,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Kanaka Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.15849,37.86962,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>La Preciosa Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.22819,37.89022,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mackey Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.43989,37.92881,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mackey Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4399,37.92882,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mapes-O:Hara Lease Occurrence, Beckwith Ranch Mines</name>
+            <styleUrl>#ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.48989,37.8827,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mary Ellen Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.24039,37.89492,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mccormick Mine</name>
+            <styleUrl>#ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.51211,37.88186,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mccormick Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.50961,37.87992,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mccormick Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.5096,37.87992,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mccormick Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.3354,37.85712,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mccormick Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.5121,37.88182,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mexican Quartz Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.386,37.91552,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Modoc Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.16769,37.91432,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mohican Mine Group</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.23679,37.89772,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mum and Alice June</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.3713,37.80742,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Oak Hill</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4552,37.72102,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Omega Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4502,37.96131,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Open Pit Mine Otherwise Unidntified</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.3157,38.00242,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Patterson and Lennon Mines</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.47433,37.9963,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Pena Blanco Mines Group</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.47267,37.96713,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Perconi Ranch Deposits</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4654,37.87912,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Phoenix Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.49989,37.91964,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Phoenix Mine</name>
+            <styleUrl>#ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.49989,37.91964,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Phoenix Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4999,37.91962,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Placer Mines</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4013,38.02021,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Promontory Gold Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.1663,38.08321,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Quigg Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4735,37.96185,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Quigg Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4735,37.96181,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Reported Mines</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4577,37.88302,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Richards Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.49239,37.90825,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Richards Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4924,37.90822,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>River Bend Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.21239,37.89852,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Rose A Occurrence, Beckwith Ranch Mines</name>
+            <styleUrl>#ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.48322,37.8752,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Rotten Rail Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.2654,37.89412,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>San Francisco Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.24019,37.89462,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Schoettgen Prospect</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.38961,38.06269,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Schoettgen Prospect</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.3877,38.05381,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Shafer Lease Occurrence</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.49544,37.90186,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Shafer Lease Occurrence</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.49544,37.90186,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Shafer Mine</name>
+            <styleUrl>#ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.49544,37.90186,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Shafer Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4954,37.90182,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Silver Mine Creek Prospect</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-119.74459,38.28021,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Soulsby Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.26767,37.96659,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Soulsby Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.26188,37.98675,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>South United Mines</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.22049,37.96115,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Spotted Fawn Claim, Ziehlke Claims Group 1948</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.50544,37.90686,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Springfield Drift Mine</name>
+            <styleUrl>#ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.42461,38.03574,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Springfield Drift Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4246,38.03571,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Stanislaus River Chrome Mine</name>
+            <styleUrl>#ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.52628,37.93074,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Sunnyside Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.2621,37.90052,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Telegraph Line Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.2743,37.88742,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ultima Chansa Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.24349,37.90602,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>United Mines</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.2268,37.96302,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>United Mines Group</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.2235,37.97742,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Unnamed Mine Probably A Placer Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.2913,38.11661,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Unnamed Mines</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4293,37.98961,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>U. S. Grant.</name>
+            <styleUrl>#ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.30989,38.08935,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Valencia Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.5827,37.88991,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Wonder Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.19099,37.78882,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yukon Mine Number One</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.4052,38.04301,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Style id="Producer_highlight">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>ffffffff</color>
+            </LabelStyle>
+        </Style>
+        <Style id="Producer_normal">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>00ffffff</color>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="ProducerStyleMap">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#Producer_normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#Producer_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="Past Producer_highlight">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>ffffffff</color>
+            </LabelStyle>
+        </Style>
+        <Style id="Past Producer_normal">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>00ffffff</color>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="Past ProducerStyleMap">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#Past Producer_normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#Past Producer_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="default_highlight">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>ffffffff</color>
+            </LabelStyle>
+        </Style>
+        <Style id="default_normal">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>00ffffff</color>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="defaultStyleMap">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#default_normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#default_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+    </Document>
+</kml>
