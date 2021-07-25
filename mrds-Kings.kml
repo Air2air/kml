@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2/">
+    <Document>
+        <name>Mineral Resource Data System</name>
+        <Placemark>
+            <name>Avenal Gap Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-119.99516,35.86966,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Canyon Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.23487,35.91686,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Dawson Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.24627,35.90106,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Kings Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.27125,35.9094,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Kings Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.27127,35.90936,0</coordinates>
+            </Point>
+        </Placemark>
+ 
+         <Style id="Producer_highlight">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>ffffffff</color>
+            </LabelStyle>
+        </Style>
+        <Style id="Producer_normal">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>00ffffff</color>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="ProducerStyleMap">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#Producer_normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#Producer_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="Past Producer_highlight">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>ffffffff</color>
+            </LabelStyle>
+        </Style>
+        <Style id="Past Producer_normal">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>00ffffff</color>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="Past ProducerStyleMap">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#Past Producer_normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#Past Producer_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="default_highlight">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>ffffffff</color>
+            </LabelStyle>
+        </Style>
+        <Style id="default_normal">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>00ffffff</color>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="defaultStyleMap">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#default_normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#default_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+    </Document>
+</kml>

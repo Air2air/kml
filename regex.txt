@@ -1,3 +1,2 @@
 <description>(.+?)<\/description>
 <Snippet>(.+?)<\/Snippet>
-<Style id="Plant_highlight">(.+?)<\/Style>

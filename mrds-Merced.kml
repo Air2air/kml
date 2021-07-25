@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2/">
+    <Document>
+        <name>Mineral Resource Data System</name>
+        <Placemark>
+            <name>Agricultural Minerals &amp; Fertilizer</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.8421,36.92163,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Briggs Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.94683,36.80826,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gypsy</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.22018,36.92326,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gypsy Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.22571,36.92323,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Lone Tree Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.29739,37.35273,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mercy Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.9016,36.75634,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mrs Briggs Mine</name>
+            <styleUrl>#defaultStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-120.9468,36.80383,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Red Metal Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.22711,36.93413,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Stayton Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.21821,36.91633,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Yellow Jacket Mine</name>
+            <styleUrl>#Past ProducerStyleMap</styleUrl>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-121.21931,36.91773,0</coordinates>
+            </Point>
+        </Placemark>
+ 
+
+         <Style id="Producer_highlight">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>ffffffff</color>
+            </LabelStyle>
+        </Style>
+        <Style id="Producer_normal">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>00ffffff</color>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="ProducerStyleMap">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#Producer_normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#Producer_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="Past Producer_highlight">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>ffffffff</color>
+            </LabelStyle>
+        </Style>
+        <Style id="Past Producer_normal">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>00ffffff</color>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="Past ProducerStyleMap">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#Past Producer_normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#Past Producer_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id="default_highlight">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>ffffffff</color>
+            </LabelStyle>
+        </Style>
+        <Style id="default_normal">
+            <IconStyle>
+                <scale>1</scale>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <color>00ffffff</color>
+            </LabelStyle>
+        </Style>
+        <StyleMap id="defaultStyleMap">
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#default_normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#default_highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+    </Document>
+</kml>
