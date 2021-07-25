@@ -4,7 +4,6 @@
         <name>Mineral Resource Data System</name>
         <Placemark>
             <name>Ala Mountain Mine</name>
-            
             <styleUrl>#ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -13,7 +12,6 @@
         </Placemark>
         <Placemark>
             <name>Ala Mountain Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -22,7 +20,6 @@
         </Placemark>
         <Placemark>
             <name>America Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -31,7 +28,6 @@
         </Placemark>
         <Placemark>
             <name>Bernal Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -40,7 +36,6 @@
         </Placemark>
         <Placemark>
             <name>Black Bear Mine</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -49,7 +44,6 @@
         </Placemark>
         <Placemark>
             <name>Black Bear Mine</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -58,7 +52,6 @@
         </Placemark>
         <Placemark>
             <name>Bonetti Mine</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -67,7 +60,6 @@
         </Placemark>
         <Placemark>
             <name>Costello Mine</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -76,7 +68,6 @@
         </Placemark>
         <Placemark>
             <name>Enriquita Mine</name>
-            
             <styleUrl>#ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -85,7 +76,6 @@
         </Placemark>
         <Placemark>
             <name>Enriquita Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -94,7 +84,6 @@
         </Placemark>
         <Placemark>
             <name>Fable Mine</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -103,7 +92,6 @@
         </Placemark>
         <Placemark>
             <name>Fable Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -112,7 +100,6 @@
         </Placemark>
         <Placemark>
             <name>Great Expectation Mine</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -121,7 +108,6 @@
         </Placemark>
         <Placemark>
             <name>Great Expectation Mine</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -130,7 +116,6 @@
         </Placemark>
         <Placemark>
             <name>Guadalupe Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -139,7 +124,6 @@
         </Placemark>
         <Placemark>
             <name>John Knorr Mine</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -148,7 +132,6 @@
         </Placemark>
         <Placemark>
             <name>Keller Mine Group</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -157,7 +140,6 @@
         </Placemark>
         <Placemark>
             <name>Mammoth Mine</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -166,7 +148,6 @@
         </Placemark>
         <Placemark>
             <name>Mammouth Mine</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -175,7 +156,6 @@
         </Placemark>
         <Placemark>
             <name>Mount Hamilton Mine</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -184,7 +164,6 @@
         </Placemark>
         <Placemark>
             <name>New Almaden District</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -193,7 +172,6 @@
         </Placemark>
         <Placemark>
             <name>New Almaden Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -202,7 +180,6 @@
         </Placemark>
         <Placemark>
             <name>New North Almaden</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -211,7 +188,6 @@
         </Placemark>
         <Placemark>
             <name>O'Connell Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -220,7 +196,6 @@
         </Placemark>
         <Placemark>
             <name>O'Connell Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -229,7 +204,6 @@
         </Placemark>
         <Placemark>
             <name>Pine Ridge Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -238,7 +212,6 @@
         </Placemark>
         <Placemark>
             <name>Providencia Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -247,7 +220,6 @@
         </Placemark>
         <Placemark>
             <name>San Antonio Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -256,7 +228,6 @@
         </Placemark>
         <Placemark>
             <name>San Francisco Mine</name>
-            
             <styleUrl>#defaultStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -265,7 +236,6 @@
         </Placemark>
         <Placemark>
             <name>San Mateo Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -274,7 +244,6 @@
         </Placemark>
         <Placemark>
             <name>Santa Teresa Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -283,7 +252,6 @@
         </Placemark>
         <Placemark>
             <name>Senator Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -292,7 +260,6 @@
         </Placemark>
         <Placemark>
             <name>Western Mine</name>
-            
             <styleUrl>#ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -301,7 +268,6 @@
         </Placemark>
         <Placemark>
             <name>Western Mine</name>
-            
             <styleUrl>#ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -310,7 +276,6 @@
         </Placemark>
         <Placemark>
             <name>Western Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -319,7 +284,6 @@
         </Placemark>
         <Placemark>
             <name>Western Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -328,7 +292,6 @@
         </Placemark>
         <Placemark>
             <name>Western Mines</name>
-            
             <styleUrl>#ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
@@ -337,76 +300,19 @@
         </Placemark>
         <Placemark>
             <name>Winegar Mine</name>
-            
             <styleUrl>#Past ProducerStyleMap</styleUrl>
             <Point>
                 <altitudeMode>relativeToGround</altitudeMode>
                 <coordinates>-121.57772,37.48021,0</coordinates>
             </Point>
         </Placemark>
-        <ScreenOverlay>
-            <name>Legend</name>
-            <visibility>1</visibility>
-            <Icon>
-                <href>https://mrdata.usgs.gov/mrds/legend.png</href>
-            </Icon>
-            <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-            <screenXY x="0" y="0.02" xunits="fraction" yunits="fraction"/>
-            <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-            <size x="0" y="0" xunits="fraction" yunits="fraction"/>
-        </ScreenOverlay>
-        <Style id="Plant_highlight">
-            <BalloonStyle>
-                <text>
-                    <![CDATA[<p><a href="http://www.usgs.gov/" title="U.S. Geological Survey">USGS</a> &gt; <a href="https://minerals.usgs.gov/">Mineral Resources</a> &gt; <a href="https://mrdata.usgs.gov/">Online spatial data</a></p><p><font color="#CC0000" size="+3">$[name]</font></p><p>$[description]</p>]]>
-                </text>
-            </BalloonStyle>
-            <IconStyle>
-                <scale>1.2</scale>
-                <Icon>
-                    <href>https://maps.google.com/mapfiles/kml/paddle/P.png</href>
-                </Icon>
-            </IconStyle>
-            <LabelStyle>
-                <color>ffffffff</color>
-            </LabelStyle>
-        </Style>
-        <Style id="Plant_normal">
-            <BalloonStyle>
-                <text>
-                    <![CDATA[<p><a href="http://www.usgs.gov/" title="U.S. Geological Survey">USGS</a> &gt; <a href="https://minerals.usgs.gov/">Mineral Resources</a> &gt; <a href="https://mrdata.usgs.gov/">Online spatial data</a></p><p><font color="#CC0000" size="+3">$[name]</font></p><p>$[description]</p>]]>
-                </text>
-            </BalloonStyle>
+ 
+
+         <Style id="Producer_highlight">
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>https://maps.google.com/mapfiles/kml/paddle/P.png</href>
-                </Icon>
-            </IconStyle>
-            <LabelStyle>
-                <color>00ffffff</color>
-            </LabelStyle>
-        </Style>
-        <StyleMap id="PlantStyleMap">
-            <Pair>
-                <key>normal</key>
-                <styleUrl>#Plant_normal</styleUrl>
-            </Pair>
-            <Pair>
-                <key>highlight</key>
-                <styleUrl>#Plant_highlight</styleUrl>
-            </Pair>
-        </StyleMap>
-        <Style id="Producer_highlight">
-            <BalloonStyle>
-                <text>
-                    <![CDATA[<p><a href="http://www.usgs.gov/" title="U.S. Geological Survey">USGS</a> &gt; <a href="https://minerals.usgs.gov/">Mineral Resources</a> &gt; <a href="https://mrdata.usgs.gov/">Online spatial data</a></p><p><font color="#CC0000" size="+3">$[name]</font></p><p>$[description]</p>]]>
-                </text>
-            </BalloonStyle>
-            <IconStyle>
-                <scale>1.2</scale>
-                <Icon>
-                    <href>https://mrdata.usgs.gov/images/mine-32.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -414,15 +320,10 @@
             </LabelStyle>
         </Style>
         <Style id="Producer_normal">
-            <BalloonStyle>
-                <text>
-                    <![CDATA[<p><a href="http://www.usgs.gov/" title="U.S. Geological Survey">USGS</a> &gt; <a href="https://minerals.usgs.gov/">Mineral Resources</a> &gt; <a href="https://mrdata.usgs.gov/">Online spatial data</a></p><p><font color="#CC0000" size="+3">$[name]</font></p><p>$[description]</p>]]>
-                </text>
-            </BalloonStyle>
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>https://mrdata.usgs.gov/images/mine-32.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -440,15 +341,10 @@
             </Pair>
         </StyleMap>
         <Style id="Past Producer_highlight">
-            <BalloonStyle>
-                <text>
-                    <![CDATA[<p><a href="http://www.usgs.gov/" title="U.S. Geological Survey">USGS</a> &gt; <a href="https://minerals.usgs.gov/">Mineral Resources</a> &gt; <a href="https://mrdata.usgs.gov/">Online spatial data</a></p><p><font color="#CC0000" size="+3">$[name]</font></p><p>$[description]</p>]]>
-                </text>
-            </BalloonStyle>
             <IconStyle>
-                <scale>1.2</scale>
+                <scale>1</scale>
                 <Icon>
-                    <href>https://mrdata.usgs.gov/images/mine-closed-32.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -456,15 +352,10 @@
             </LabelStyle>
         </Style>
         <Style id="Past Producer_normal">
-            <BalloonStyle>
-                <text>
-                    <![CDATA[<p><a href="http://www.usgs.gov/" title="U.S. Geological Survey">USGS</a> &gt; <a href="https://minerals.usgs.gov/">Mineral Resources</a> &gt; <a href="https://mrdata.usgs.gov/">Online spatial data</a></p><p><font color="#CC0000" size="+3">$[name]</font></p><p>$[description]</p>]]>
-                </text>
-            </BalloonStyle>
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>https://mrdata.usgs.gov/images/mine-closed-32.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -482,15 +373,10 @@
             </Pair>
         </StyleMap>
         <Style id="default_highlight">
-            <BalloonStyle>
-                <text>
-                    <![CDATA[<p><a href="http://www.usgs.gov/" title="U.S. Geological Survey">USGS</a> &gt; <a href="https://minerals.usgs.gov/">Mineral Resources</a> &gt; <a href="https://mrdata.usgs.gov/">Online spatial data</a></p><p><font color="#CC0000" size="+3">$[name]</font></p><p>$[description]</p>]]>
-                </text>
-            </BalloonStyle>
             <IconStyle>
-                <scale>1.2</scale>
+                <scale>1</scale>
                 <Icon>
-                    <href>https://mrdata.usgs.gov/images/occurrence-32.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
@@ -498,15 +384,10 @@
             </LabelStyle>
         </Style>
         <Style id="default_normal">
-            <BalloonStyle>
-                <text>
-                    <![CDATA[<p><a href="http://www.usgs.gov/" title="U.S. Geological Survey">USGS</a> &gt; <a href="https://minerals.usgs.gov/">Mineral Resources</a> &gt; <a href="https://mrdata.usgs.gov/">Online spatial data</a></p><p><font color="#CC0000" size="+3">$[name]</font></p><p>$[description]</p>]]>
-                </text>
-            </BalloonStyle>
             <IconStyle>
                 <scale>1</scale>
                 <Icon>
-                    <href>https://mrdata.usgs.gov/images/occurrence-32.png</href>
+                    <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
                 </Icon>
             </IconStyle>
             <LabelStyle>
