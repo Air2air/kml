@@ -1,2 +1,5 @@
+(?<=\d\.\d{9})\d+   < condenses decimal places to 9
+
 <description>(.+?)<\/description>
 <Snippet>(.+?)<\/Snippet>
+<ExtendedData>(.+?)<\/ExtendedData>
