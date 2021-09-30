@@ -1,2 +1,8 @@
 (?<=\d\.\d{6})\d+   < condenses decimal places to 9
-<LookAt.*?>(.|\n)*?</LookAt>
+console.log(myArray);
+
+var car1 = new Car('Eagle', 'Talon TSi', 1993, rand);
+
+Arrays
+
+{ 	a: { 		b, 		c: { 			d: { 				e, 				f 			} 		} 	} } 
